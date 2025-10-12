@@ -9,11 +9,11 @@ All modules are designed to work together as a complete machine learning pipelin
 
 | Folder / File                              | Purpose                                                                 |
 |--------------------------------------------|-------------------------------------------------------------------------|
-| `notebooks/Data_Collection.ipynb`          | Performs web scraping from Carsome Malaysia to collect raw used car listings data |
-| `notebooks/Features_Engineering.ipynb`     | Cleans and preprocesses the raw dataset (handles missing values, encodes features, etc.) |
-| `notebooks/Data_Visualization.ipynb`       | Visualizes the dataset **before outlier removal** to understand data distribution |
-| `notebooks/Features_Engineering_Outlier.ipynb` | Removes outliers and refines the dataset for improved model accuracy |
-| `notebooks/Data_Visualization_Cleaned.ipynb` | Visualizes the dataset **after outlier removal** to validate improvements |
+| `notebooks/1. Data_Collection.ipynb`          | Performs web scraping from Carsome Malaysia to collect raw used car listings data |
+| `notebooks/2. Features_Engineering.ipynb`     | Cleans and preprocesses the raw dataset (handles missing values, encodes features, etc.) |
+| `notebooks/3. Data_Visualization.ipynb`       | Visualizes the dataset **before outlier removal** to understand data distribution |
+| `notebooks/4. Features_Engineering.ipynb` | Removes outliers and refines the dataset for improved model accuracy |
+| `notebooks/5. Data_Visualization.ipynb` | Visualizes the dataset **after outlier removal** to validate improvements |
 | `models/ML_Development.ipynb`              | Develops and evaluates multiple regression models (CatBoost, LightGBM, Random Forest, XGBoost) for price prediction |
 
 ---
