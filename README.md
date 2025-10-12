@@ -76,24 +76,13 @@ Planned future developments include:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### 📚 Frameworks / Libraries  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![CatBoost](https://img.shields.io/badge/CatBoost-FFDE00?style=for-the-badge&logoColor=black)  
-![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge&logoColor=white)  
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![CatBoost](https://img.shields.io/badge/CatBoost-FFDE00?style=for-the-badge&logoColor=black) ![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ### 🧰 Developer Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 🤖 Machine Learning  
-![Regression Modeling](https://img.shields.io/badge/Regression%20Modeling-8E44AD?style=for-the-badge)  
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-1ABC9C?style=for-the-badge)  
+![Regression Modeling](https://img.shields.io/badge/Regression%20Modeling-8E44AD?style=for-the-badge) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-1ABC9C?style=for-the-badge)  
 
 ### 🔌 APIs and Integrations  
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-3498DB?style=for-the-badge)  
