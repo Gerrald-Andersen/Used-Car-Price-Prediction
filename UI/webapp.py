@@ -13,9 +13,6 @@ from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import PowerTransformer, RobustScaler, OrdinalEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-import optuna
-from optuna.samplers import TPESampler
-from optuna.pruners import MedianPruner
 import os
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'lib')))
